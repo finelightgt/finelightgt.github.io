@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#d7ac1b"/><stop offset="1" stop-color="#f5d76e"/></linearGradient></defs>
+<rect width="520" height="150" rx="24" fill="#07110d"/>
+<circle cx="78" cy="75" r="48" fill="none" stroke="url(#g)" stroke-width="6"/>
+<path d="M50 93V57h11v25l15-25h12v36H77V69L62 93z" fill="url(#g)"/>
+<path d="M104 93V57h11v36z" fill="#fff"/>
+<text x="145" y="67" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" fill="#fff">FINE LIGHT</text>
+<text x="147" y="99" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#d7ac1b">GENERAL TRADING LLC</text>
+</svg>
