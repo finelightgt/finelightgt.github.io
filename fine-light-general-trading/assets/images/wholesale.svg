@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d271b"/><stop offset="1" stop-color="#526d35"/></linearGradient><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><rect x="180" y="470" width="320" height="220" fill="#d7ac1b"/><rect x="500" y="400" width="320" height="290" fill="#e8c95f"/><rect x="820" y="500" width="320" height="190" fill="#b78c27"/><g fill="none" stroke="#fff" stroke-width="12"><path d="M250 470v220M340 470v220M590 400v290M690 400v290M910 500v190M1000 500v190"/></g><path d="M1150 740h230l-55-100h-120z" fill="#fff" opacity=".8"/><circle cx="1190" cy="755" r="25" fill="#07110d"/><circle cx="1320" cy="755" r="25" fill="#07110d"/>
+<rect x="70" y="700" width="1460" height="220" rx="34" fill="#07110d" opacity=".78"/>
+<text x="120" y="785" font-family="Arial" font-size="58" font-weight="800" fill="#fff">Wholesale Supply</text>
+<text x="120" y="845" font-family="Arial" font-size="28" fill="#d7ac1b">Bulk Orders • Sourcing • Logistics</text>
+</svg>
