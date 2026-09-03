@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b2712"/><stop offset="1" stop-color="#9b6b22"/></linearGradient><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><ellipse cx="420" cy="550" rx="300" ry="170" fill="#f0c76b" opacity=".9"/><path d="M150 550c20 180 520 180 540 0" fill="#c28a2e"/><path d="M230 470h380v120H230z" fill="#fff" opacity=".85"/><circle cx="800" cy="500" r="170" fill="#d8b56b"/><path d="M700 600l100-260 100 260z" fill="#8d6b3a"/><path d="M1040 680l170-300 170 300z" fill="#c79a43"/>
+<rect x="70" y="700" width="1460" height="220" rx="34" fill="#07110d" opacity=".78"/>
+<text x="120" y="785" font-family="Arial" font-size="58" font-weight="800" fill="#fff">Commodities</text>
+<text x="120" y="845" font-family="Arial" font-size="28" fill="#d7ac1b">Bulk • Food • Agricultural Products</text>
+</svg>
