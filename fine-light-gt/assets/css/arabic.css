@@ -1,0 +1,20 @@
+
+html[dir="rtl"] body{font-family:"Noto Sans Arabic","Tajawal","Cairo",Tahoma,Arial,sans-serif;direction:rtl}
+html[dir="rtl"] .topbar .container,html[dir="rtl"] .nav-inner{direction:rtl}
+html[dir="rtl"] .nav-links{direction:rtl}
+html[dir="rtl"] .drop-menu{left:auto;right:0}
+html[dir="rtl"] .dropbtn:after{margin-left:0;margin-right:5px}
+html[dir="rtl"] .hero-photo .hero-badge,html[dir="rtl"] .page-photo .page-title{left:auto;right:max(28px,calc((100% - 1184px)/2))}
+html[dir="rtl"] .section-head,html[dir="rtl"] .page-title{text-align:right}
+html[dir="rtl"] .section-head.center{text-align:center}
+html[dir="rtl"] .section-head.center:after{margin-left:auto;margin-right:auto}
+html[dir="rtl"] .checklist li:before{margin-right:0;margin-left:9px}
+html[dir="rtl"] .footer-grid,html[dir="rtl"] .stats-grid{direction:rtl}
+html[dir="rtl"] .footer-bottom{direction:rtl}
+html[dir="rtl"] .quote-float{left:auto;right:22px}
+html[dir="rtl"] .quote-close{right:auto;left:18px}
+html[dir="rtl"] .quote-dialog h2{padding-right:0;padding-left:38px}
+html[dir="rtl"] .quote-kicker{letter-spacing:.5px}
+html[dir="rtl"] .nav-links .lang-switch{direction:ltr}
+@media(max-width:900px){html[dir="rtl"] .drop-menu{margin-right:8px;margin-left:0}}
+@media(max-width:620px){html[dir="rtl"] .quote-float{right:14px;left:auto}html[dir="rtl"] .quote-close{left:12px;right:auto}}
