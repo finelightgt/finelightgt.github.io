@@ -1,0 +1,2 @@
+FINE LIGHT GENERAL TRADING LLC WEBSITE\nOpen index.html to preview. Upload all files preserving folder structure. Bootstrap, fonts and sample images load from the internet. Enquiry forms open the visitor email application; configure a secure server-side form handler for direct submission. Replace sample imagery and editorial blog placeholders before publishing.
+UPDATED LOGO: The newly supplied Fine Light logo is used on every page, the preloader, and favicon. A high-resolution enhanced PNG is in assets/img/logo.png.
